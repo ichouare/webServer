@@ -81,7 +81,7 @@ first clone this repo after , enter make in terminal on main repo now webserv re
 
 ```bash
 # Example installation commands
-git clone https://github.com/MarOne16/webServer.git webserv
+git clone https://github.com/ichouare/webServer.git webserv
 cd webserv
 make
 ./webserv
